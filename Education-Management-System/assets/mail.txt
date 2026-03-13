@@ -1,0 +1,5 @@
+Ali,Student,I will be absent tomorrow as I fall in sick.,
+Muhammad,Parent,Can I check my child receipt?TP800000,
+Lily,Student,Can I ask when the holiday start?,
+Jerry,Teacher,Please update the timetable as I have adjust my office hours,
+Tanjiro,Parent,Can I check my child receipt?TP800002,

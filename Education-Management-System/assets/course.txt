@@ -1,0 +1,3 @@
+ISCC002,ISCC,T001,Namezee,no,iscc.pdf,exam date:3/5,
+PYTHON002,PYTHON,T002, ,no,python.pdf,exam date:3/5,
+DATABASE003,DATABASE,T003,Mr Siwa,no,database.pdf,exam date:3/5,

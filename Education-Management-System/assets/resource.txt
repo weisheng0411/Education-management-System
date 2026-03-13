@@ -1,0 +1,6 @@
+A-08-03,Projector,4,11
+A-08-03,Chair,34,58
+B-07-02,Table,3,13
+B-07-02,Television,4,20
+D-05-03,Whiteboard,3,21
+D-05-03,Projector,2,12

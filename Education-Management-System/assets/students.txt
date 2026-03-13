@@ -1,0 +1,5 @@
+TP800000,Jamel,jamel@gmail.com,011482063,012856021,Male,Active,5000,yes
+TP800001,Jackson,jackson@gmail.com,011482063,011982371,Female,Active,6000,no
+TP800002,James,james@gmail.com,011119384,016789128,Male,Active,7000,yes
+TP662076,Low Jin Ming, ,820193812093, ,Male,Active,5000,no
+TP882428,Alicia, ,01135465561, ,Female,Withdraw,4000,yes

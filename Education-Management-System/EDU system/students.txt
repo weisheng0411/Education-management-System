@@ -1,0 +1,5 @@
+TP800000,Jamel,jamel@gmail.com,0192210,012856021,Male,Withdraw,5000,yes
+TP800001,Jackson,jackson@gmail.com,011482063,011982371,Female,Active,6000,no
+TP800002,James,james@gmail.com,011119384,016789128,Male,Active,7000,yes
+TP800003,Alicia,james@gmail.com,011119384,016789128,Male,Active,8000,yes
+TP998926,Leong Jia Cheng,dasd@gmail.com,019298098,122312,Male,Active,7000,yes

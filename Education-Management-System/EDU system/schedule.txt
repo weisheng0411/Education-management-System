@@ -1,0 +1,7 @@
+ISCC001,Tuesday,10:30-12:30,Mr Namazee,A-02-01
+PWP001,Monday,13:00-15:00,Miss Aziah,B-04-01
+PWP001,Tuesday,13:00-15:00,Miss Aziah,B-04-01
+ISCC001,Wednesday, ,Mr Namazee,A-08-04
+ISCC001,Friday,13:00-15:00,Mr Namazee,Audi 5
+DBM001,Friday,13:00-15:00,Mr Siwa,D-08-04
+ISCC001,Thursday, ,Mr Namazee,Audi1

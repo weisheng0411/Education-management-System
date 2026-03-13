@@ -1,0 +1,6 @@
+Academic,Introduction To Quantum Physics,26/10/2025,2h,Auditorium 1,Mr Panda
+Extracurricular,School Robotics Club Meeting,12/11/2025,A-04-08,1h30m,Miss Lavender
+Extracurricular,English Club Meeting,22/03/2025,A-04-02,1h ,Mr David
+Conference,Annual Education Technology Conference,03/05/2025,Auditorium 5,2h,Miss Rose
+Seminar,Effective Study Habits For Faculty Assignments,13/02/2025,Auditorium 6,2h,Mr Bean
+Seminar,Discussion Of School Future,3/2/2023,1h,A-08-04,Miss Rozita

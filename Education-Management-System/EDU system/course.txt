@@ -1,0 +1,5 @@
+ISCC001,ISCC,T001,Mr Namazee,no,iscc.pdf,exam date is 12/3,Focus on understanding computer networks&encryption techniques&secure data transmission and handling cyber threats
+PYTHON001,PYTHON,T002,Miss Aziah,no,python.pdf,exam date:3/5,Covers Python basics&control structures&data handling&object-oriented programming and practical coding applications
+DBM001,DBM,T003,Mr Siwa,no,database.pdf,exam date:3/5,Learn database fundamentals&SQL operations&advanced queries&database design and management techniques.
+OS001,OS,T004,Miss Varnikah,no,os.pdf,exam date:2/4,Explore operating system concepts&process and memory management&file systems and system security.
+,,T001,,,,,
